@@ -7,3 +7,8 @@ This is a simple traffic lights simulator. The user can simulate emergency signa
 - Code clean up: removing repeating code, adding state-machine, refactoring threads synchronization etc.
 
 ### Code is licensed under MIT-license
+
+### How does it work (demos)?
+
+- Part I: https://youtu.be/Xlrqz9SSZvo
+- Part II: https://youtu.be/fEMrHfJroG0
